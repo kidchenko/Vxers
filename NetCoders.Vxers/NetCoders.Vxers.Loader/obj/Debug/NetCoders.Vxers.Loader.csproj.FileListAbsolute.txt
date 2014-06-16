@@ -1,0 +1,6 @@
+C:\.NET CODERS\NetCoders.Vxers\NetCoders.Vxers.Loader\bin\Debug\NetCoders.Vxers.Loader.exe.config
+C:\.NET CODERS\NetCoders.Vxers\NetCoders.Vxers.Loader\bin\Debug\NetCoders.Vxers.Loader.exe
+C:\.NET CODERS\NetCoders.Vxers\NetCoders.Vxers.Loader\bin\Debug\NetCoders.Vxers.Loader.pdb
+C:\.NET CODERS\NetCoders.Vxers\NetCoders.Vxers.Loader\obj\Debug\NetCoders.Vxers.Loader.exe
+C:\.NET CODERS\NetCoders.Vxers\NetCoders.Vxers.Loader\obj\Debug\NetCoders.Vxers.Loader.pdb
+C:\.NET CODERS\NetCoders.Vxers\NetCoders.Vxers.Loader\obj\Debug\NetCoders.Vxers.Loader.csprojResolveAssemblyReference.cache
